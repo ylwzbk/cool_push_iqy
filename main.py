@@ -205,11 +205,11 @@ def sendMsg(key, content):
 
 def main():
     import os
-    # P00001 = ""
+    # P00001 = "5d6Pm2Vm3ytlgGvm3m3cnERTMUzgbcfrylMh6eg9zfohYqvD9Xi5CihTurx7gy9q9Mokcra0"
     P00001 = os.environ['P00001']
-    # P00003 = ""
+    # P00003 = "419695182217479"
     P00003 = os.environ['P00003']
-    # skey = ""
+    # skey = "45e842a77129f48389740b537638252b"
     skey = os.environ['SKEY']
 
     # 签到
